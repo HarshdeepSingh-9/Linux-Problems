@@ -14,3 +14,5 @@ done < temp1
 cat temp2 | uniq
 rm temp2
 rm temp1
+# checks the people who are login into the server 
+# give the number of screens they loged in seperately
